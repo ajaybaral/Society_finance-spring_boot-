@@ -67,9 +67,7 @@ src/
   context/      # Auth context
 ```
 
-## 📝 License
-MIT
+
 
 ---
 
-**Built with ❤️ for modern society management.**
